@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Zad dom 2</string>
+    <string name="add_task">Add Task</string>
+    <string name="task_description">Task description</string>
+    <string name="task_title">Task title</string>
+    <string-array name="images">
+        <item>drawable 1</item>
+        <item>drawable 2</item>
+        <item>drawable 3</item>
+    </string-array>
+    <string name="delete_cancel_msg"> Usuń </string>
+    <string name="retry_msg"> RETRY </string>
+    <string name="delete_dialog_tag"> DELETE DIALOG TAG </string>
+    <string name="long_click_msg"> Usuń </string>
+    <string name="delete_question"> Usunąć film? </string>
+    <string name="dialog_confirm"> Potwierdź </string>
+    <string name="dialog_cancel"> Anuluj </string>
+    <string name="item_selected_msg"> CLICK VIEW </string>
+    <string name="myFileprovider">com.example.hw2.fileprovider</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Lista filmów</string>
+</resources>
